@@ -18,4 +18,8 @@ function setupCanvas() {
 //  left wall
 ctx.fillStyle ="white";
 ctx.fillRect(8,0,2,34);
+
+// paddle
+ctx.fillStyle ="white";
+ctx.fillRect(19,34,2,7);
 }
