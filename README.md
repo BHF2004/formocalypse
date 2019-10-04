@@ -1,2 +1,3 @@
 # formocalypse
-A small fun game made with javascript
+
+A small fun puzzle game made with javascript
